@@ -15,4 +15,18 @@ Section 2 - HTML Fundamentals
 11. HTML Document Structure
 12. Text Elements
 13. More Text Elements: Lists
+14. Images and Attributes
+15. Hyperinks
+16. Structuring our Page
+17. A Note on Semantic HTML
+18. Installing Additional VS Code Extensions
+19. Challenge #1
+20. Challenge #2
+
+
+Section 3 - CSS Fundamentals
+21. Section Intro
+22. Introduction to CSS
+23. Inline, Internal and External CSS
+24. Styling Text
 
