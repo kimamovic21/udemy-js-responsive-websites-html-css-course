@@ -1,10 +1,20 @@
 body {
     background-color: #efefef;
+    color: #444;
     font-family: sans-serif;
 }
 
+/* h1, h2, h3, h4, p, li {
+    font-family: sans-serif;
+    color: #444;
+} */
+
+h1, h2, h3 {
+    color: #0e8597;
+}
+
 h1 {
-    color: blue;
+    /* color: blue; */
     font-size: 40px;
     text-transform: uppercase;
     font-style: italic;
@@ -32,3 +42,109 @@ p {
 li {
     font-size: 20px;
 }
+
+/* footer p {
+    font-size: 14px
+} */
+
+/* article header p {
+    font-style: italic;
+} */
+
+#author {
+    font-style: italic;
+    font-size: 18px;
+}
+
+#copyright {
+    font-size: 14px;
+}
+
+.related-author {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.related {
+    list-style: none;
+}
+
+.main-header {
+    background-color: #f7f7f7;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border-top: 2px solid #1098ad;
+    border-bottom: 2px solid #1098ad;     
+}
+
+li:first-child {
+    font-weight: bold;
+}
+
+li:last-child {
+    font-style: italic;
+}
+
+li:nth-child(2) {
+    color: #777;
+}
+
+/* Misconception: this won't work*/
+article p:first-child {
+    color: #888;
+}
+
+article p:last-child {
+    color: #888;
+}
+
+/* Styling links */
+/* LVHA */
+a:link {
+    color: #0e8597;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0e8597;
+}
+
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
+}
+
+/* Resolving conflicts */
+/* #copyright {
+    color: red;
+}
+
+.copyright {
+    color: blue;
+}
+
+.text {
+    color: yellow;
+}
+
+footer p {
+    color: green; 
+}
+*/
+
+/* nav a:link, nav p {
+    font-size: 18px;
+} */
+
+nav {
+    font-weight: 18px;
+}
+

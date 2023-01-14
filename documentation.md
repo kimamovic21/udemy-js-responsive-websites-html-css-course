@@ -29,4 +29,12 @@ Section 3 - CSS Fundamentals
 22. Introduction to CSS
 23. Inline, Internal and External CSS
 24. Styling Text
-
+25. Combining Selectors
+26. Class and ID Selectors
+27. Working With Colors
+28. Pseudo-classes
+29. Styling Hyperlinks
+30. Using Chrome DevTools
+31. CSS Theory #1: Conflicts Between Selectors
+32. CSS Theory #2: Inheritance and the Universal Selector
+33. Challenge #1
