@@ -38,3 +38,14 @@ Section 3 - CSS Fundamentals
 31. CSS Theory #1: Conflicts Between Selectors
 32. CSS Theory #2: Inheritance and the Universal Selector
 33. Challenge #1
+34. CSS Theory #3: The CSS Box Model
+35. Using Margins and Paddings
+36. Adding Dimensions
+37. Centering our Page
+38. Challenge #2
+39. CSS Theory #4: Types of Boxes
+40. CSS Theory #5: Absolute Positioning
+41. Pseudo-elements
+42. Developer Skill #1: Googling and Reading Documentation
+43. Developer Skill #2: Debugging and Asking Questions
+
