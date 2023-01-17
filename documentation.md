@@ -48,4 +48,14 @@ Section 3 - CSS Fundamentals
 41. Pseudo-elements
 42. Developer Skill #1: Googling and Reading Documentation
 43. Developer Skill #2: Debugging and Asking Questions
+44. Challenge #3
 
+
+Section 4 - Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+45. Section Intro
+46. The 3 Ways of Building Layouts
+47. Using Floats
+48. Clearing Floats
+49. Building a Simple Float Layout
+50. box-sizing: border-box
+51. Challenge #1

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Section 3</title>
+    <title>Section 4</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -13,7 +13,7 @@
 
     <div class="container">
 
-        <header class="main-header">
+        <header class="main-header clearfix">
             <h1>📖 The Code Magazine [DEMO]</h1>
         
             <nav>
@@ -25,6 +25,8 @@
                 <a href="challenge3.html">Challenge 3</a>
             </nav>
 
+            <div class="clear"></div>
+
             <button>❤ Like</button>
         </header>
 
@@ -32,11 +34,21 @@
             <header class="post-header">
                 <h2>The Basic Language of the Web: HTML</h2>
 
-                <img src="images/person.jpg" alt="Headshot of John Doe" width="50" height="50">
+                <img class="author-img" 
+                     src="images/person.jpg" 
+                     alt="Headshot of John Doe" 
+                     width="50" 
+                     height="50"
+                />
 
-                <p id="author">Posted by <strong>John Doe</strong> on Wednesday, 11th January 2023</p>
+                <p id="author" class="author">Posted by <strong>John Doe</strong> on Wednesday, 11th January 2023</p>
 
-                <img class="post-img" src="images/programming.jpg" alt="HTML code on a screen" width="500" height="200">
+                <img class="post-img" 
+                     src="images/programming.jpg" 
+                     alt="HTML code on a screen" 
+                     width="500" 
+                     height="200"
+                />
             </header>
 
             <p>All modern websites and web applications are build using three <em>fundamental</em> technologies: HTML, CSS and Javascript. 
