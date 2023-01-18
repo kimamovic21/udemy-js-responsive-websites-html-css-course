@@ -59,3 +59,10 @@ Section 4 - Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 49. Building a Simple Float Layout
 50. box-sizing: border-box
 51. Challenge #1
+52. Introduction to Flexbox
+53. A Flexbox Overview
+54. Spacing and Aligning Flex Items
+55. The flex Property
+56. Adding Flexbox to Our Project
+57. Building a Simple Flexbox Layout
+58. Challenge #2
