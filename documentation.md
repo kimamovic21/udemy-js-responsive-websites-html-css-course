@@ -66,3 +66,10 @@ Section 4 - Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 56. Adding Flexbox to Our Project
 57. Building a Simple Flexbox Layout
 58. Challenge #2
+59. Introduction to CSS Grid
+60. A CSS Grid Overview
+61. Sizing Grid Columns and Rows
+62. Placing and Spanning Grid Items
+63. Aligning Grid Items and Tracks
+64. Building a Simple CSS Grid Layout
+65. Challenge #3
