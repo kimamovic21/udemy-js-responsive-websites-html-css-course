@@ -73,3 +73,13 @@ Section 4 - Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 63. Aligning Grid Items and Tracks
 64. Building a Simple CSS Grid Layout
 65. Challenge #3
+
+
+Section 5: Web Design Rules and Framework
+66. Section Intro
+67. Project Overview
+68. Overview of Web Design and Website Personalities
+69. Web Design Rules #1: Typography
+70. Implementing Typography
+71. Web Design Rules #2: Colors
+
