@@ -82,4 +82,13 @@ Section 5: Web Design Rules and Framework
 69. Web Design Rules #1: Typography
 70. Implementing Typography
 71. Web Design Rules #2: Colors
-
+72. Implementing Colors
+73. Web Design Rules #3: Images and Illustrations
+74. Web Design Rules #4: Icons
+75. Implementing Icons
+76. Web Design Rules #5: Shadows
+77. Implementing Shadows
+78. Web Design Rules #6: Border-radius
+79. Implementing Border-radius
+80. Web Design Rules #7: Whitespace
+81. Web Design Rules #8: Visual Hierarchy

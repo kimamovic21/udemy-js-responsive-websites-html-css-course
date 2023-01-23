@@ -7,6 +7,14 @@ FONT SIZE SYSTEM (px)
 */
 
 /* https://type-scale.com/ */
+/* https://yeun.github.io/open-color/ */
+/* https://coolors.co/ */
+/* https://fonts.google.com/specimen/Inter?query=inter */
+
+/*
+MAIN COLOR: #097f5b
+GREY COLOR: #343a40
+*/
 
 * {
     margin: 0;
@@ -20,7 +28,9 @@ FONT SIZE SYSTEM (px)
   body {
       background-color: #f5f5f5;
       font-family: 'Inter', sans-serif;
-      /* https://fonts.google.com/specimen/Inter?query=inter */
+      color: #343a40;
+      border-bottom: 8px solid #087f5b;
+      padding: 10px;
   }
   
   .container {
@@ -45,6 +55,32 @@ h2 {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 80px;
   }
+
+  .btn:link,
+  .btn:visited {
+    background-color: #087f5b;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 500;
+    border-radius: 100px;
+  }
+
+  .btn:hover,
+  .btn:active {
+    background-color: #099268;
+  }
+
+  .btn--big {
+    font-size: 18px;
+    padding: 16px 32px;
+  }
+
+  .btn--small {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
   
   /* ------------------------ */
   /* COMPONENT STYLES */
@@ -68,6 +104,7 @@ h2 {
     /* 44 / 52 / 62 */
     line-height: 1.1;
     letter-spacing: -1px;
+    /* text-shadow: 0px 3px 1px rgba(0,0,0,0.2); */
   }
   
   .header-text {
@@ -78,11 +115,15 @@ h2 {
   
   img {
     width: 100%;
+    border-radius: 15px;
   }
   
   /* FEATURES */
   .features-icon {
-
+    stroke: #087f5b;
+    width: 32px;
+    height: 32px;
+    margin-bottom: 16px;
   }
   
   .features-title {
@@ -97,7 +138,10 @@ h2 {
   
   /* TESTIMONIAL */
   .testimonial-section {
-
+    background-color: #087f5b;
+    color: #fff;
+    padding: 24px;
+    border-radius: 20px;
   }
   
   .testimonial-box {
@@ -119,6 +163,16 @@ h2 {
   }
   
   /* CHAIRS */
+  .chair {
+    box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.2);
+    border-radius: 15px;
+  }
+
+  .chair img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
   .chair-box {
     padding: 24px;
   }
@@ -145,7 +199,9 @@ h2 {
   }
   
   .chair-icon {
-    
+    stroke: #087f5b;
+    width: 24px;
+    height: 24px;
   }
   
   .chair-price {
@@ -157,4 +213,6 @@ h2 {
   footer {
     margin-bottom: 48px;
     font-size: 14px;
+    color: #495057;
+    text-align: center;
   }
