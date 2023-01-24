@@ -92,3 +92,7 @@ Section 5: Web Design Rules and Framework
 79. Implementing Border-radius
 80. Web Design Rules #7: Whitespace
 81. Web Design Rules #8: Visual Hierarchy
+82. Implementing Whitespace and Visual Hierarchy
+83. Web Design Rules #9: User Experience (UX)
+84. The Website-Personalities-Framework
+85. The Missing Piece: Steal Like an Artist!
