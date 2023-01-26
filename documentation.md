@@ -96,3 +96,12 @@ Section 5: Web Design Rules and Framework
 83. Web Design Rules #9: User Experience (UX)
 84. The Website-Personalities-Framework
 85. The Missing Piece: Steal Like an Artist!
+
+
+Section 6: Components and Layout Patterns
+86. Section Intro
+87. Web Design Rules #10 - Part 1: Elements and Components
+88. Building an Accordion Component - Part 1
+89. Building an Accordion Component - Part 2
+90. Building a Carousel Component - Part 1
+91. Building a Carousel Component - Part 2
