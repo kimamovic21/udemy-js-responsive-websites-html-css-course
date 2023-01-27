@@ -105,3 +105,11 @@ Section 6: Components and Layout Patterns
 89. Building an Accordion Component - Part 2
 90. Building a Carousel Component - Part 1
 91. Building a Carousel Component - Part 2
+92. Building a Table Component - Part 1
+93. Building a Table Component - Part 2
+94. Challenge #1: Building a Pagination Component
+95. Web Design Rules #10 - Part 2: Layout Patterns
+96. Building a Hero Section - Part 1
+97. Building a Hero Section - Part 2
+98. Bulding a Web Application Layout - Part 1
+99. Bulding a Web Application Layout - Part 2
