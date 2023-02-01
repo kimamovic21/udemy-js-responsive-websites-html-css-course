@@ -113,3 +113,17 @@ Section 6: Components and Layout Patterns
 97. Building a Hero Section - Part 2
 98. Bulding a Web Application Layout - Part 1
 99. Bulding a Web Application Layout - Part 2
+
+
+Section 7: Omnifood Project - Setup and Desktop Version
+100. Section Intro
+101. The 7 Steps to a Great Website
+102. Defining and Planning the Project (Steps 1 and 2)
+103. Sketching Initial Layout Ideas (Step 3)
+104. First Design and Development Steps (Step 4)
+105. Responsive Design Principles
+106. How rem and max-width Work
+107. Building the Hero - Part 1
+108. Building the Hero - Part 2
+109. Building the Hero - Part 3
+110. Building the Header
