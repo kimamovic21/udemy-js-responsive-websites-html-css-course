@@ -127,3 +127,9 @@ Section 7: Omnifood Project - Setup and Desktop Version
 108. Building the Hero - Part 2
 109. Building the Hero - Part 3
 110. Building the Header
+111. Building the Navigation
+112. Setting Up a Reusable Grid
+113. Building the How-It-Works Section - Part 1
+114. Building the How-It-Works Section - Part 2
+115. Building the Featured-In Section
+116. Building the Meals Section - Part 1
