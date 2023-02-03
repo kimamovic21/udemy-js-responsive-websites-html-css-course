@@ -133,3 +133,7 @@ Section 7: Omnifood Project - Setup and Desktop Version
 114. Building the How-It-Works Section - Part 2
 115. Building the Featured-In Section
 116. Building the Meals Section - Part 1
+117. Building the Meals Section - Part 2
+118. Building the Meals Section - Part 3
+119. Building the Testimonials Section - Part 1
+120. Building the Testimonials Section - Part 2
