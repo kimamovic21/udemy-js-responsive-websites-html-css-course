@@ -28,6 +28,7 @@ https://maketintsandshades.com/
 - Tints: 
 #fdf2e9
 #fae5d3
+#eb984e
 - Shades: #cf711f
 - Accents:
 - Greys: 
@@ -37,7 +38,7 @@ https://maketintsandshades.com/
 
 
 --- 05 SHADOWS
-
+box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.1)
 
 --- 06 BORDER-RADIUS
 Default: 9px
@@ -90,6 +91,11 @@ body {
     display: grid;
     row-gap: 9.6rem;
     column-gap: 6.4rem;
+}
+
+/* Grid that is not the last child will have this margin*/
+.grid:not(:last-child) {
+    margin-bottom: 9.6rem;
 }
 
 .grid-cols-2 {
@@ -197,19 +203,39 @@ body {
     border-bottom: 1px solid transparent;
 }
 
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+.list-item {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    gap: 1.6rem;
+}
+
+.list-icon {
+    width: 3rem;
+    height: 3rem;
+    color: #e67e22;
+}
+
 /* HELPER SETTINGS CLASSES */
 .margin-right-sm {
-    margin-right: 1.6rem;
+    margin-right: 1.6rem !important;
 }
 
 .margin-bottom-md {
-    margin-bottom: 4.8rem;
+    margin-bottom: 4.8rem !important;
 }
 
 .center-text {
-    text-align: center;
+    text-align: center !important;
 }
 
 strong {
-    font-weight: 500;
+    font-weight: 500 !important;
 }
