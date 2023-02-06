@@ -141,3 +141,16 @@ Section 7: Omnifood Project - Setup and Desktop Version
 121. Building the Pricing Section - Part 2
 123. Building the Features Part
 124. Building the Call-To-Action Section - Part 1
+125. Building the Call-To-Action Section - Part 2
+126. Building the Call-To-Action Section - Part 3
+127. Building the Footer - Part 1
+128. Building the Footer - Part 2
+
+
+
+Section 8: Omnifood Project - Responsive Web Design
+129. Section Intro
+130. How Media Queries Work
+131. How to Select Breakpoints
+132. Responding to Small Laptops
+
