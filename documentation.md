@@ -153,4 +153,7 @@ Section 8: Omnifood Project - Responsive Web Design
 130. How Media Queries Work
 131. How to Select Breakpoints
 132. Responding to Small Laptops
-
+133. Responding to Landscape Tablets
+134. Responding to Tablets
+135. Building the Mobile Navigation
+136. Responding to Smaller Tablets
