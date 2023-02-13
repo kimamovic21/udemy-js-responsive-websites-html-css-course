@@ -157,3 +157,12 @@ Section 8: Omnifood Project - Responsive Web Design
 134. Responding to Tablets
 135. Building the Mobile Navigation
 136. Responding to Smaller Tablets
+137. Responding to Phones
+
+
+
+Section 9: Omnifood Project - Effects, Optimizations and Deployment
+138. Section Intro
+139. A short introduction to Javascript
+140. Making the Mobile Navigation Work
+141. Implementing Smooth Scrolling
