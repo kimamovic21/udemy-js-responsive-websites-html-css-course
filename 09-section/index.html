@@ -2,9 +2,14 @@
 <html lang="en">
 
 <head>
+    <!-- Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Omnifood is AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicon icon -->
+    <link rel="icon" href="img/favicon.png">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +28,7 @@
     <!-- script.js file -->
     <script src="js/script.js" defer></script>
     
-    <title>Omnifood Responsive Project</title>
+    <title>Omnifood &dash; Never cook again!</title>
 </head>
 
 <body>
@@ -591,12 +596,13 @@
                             You can cancel or pause anytime. And the first meal is on us!
                         </p>
 
-                        <form class="cta-form" action="#">
+                        <form class="cta-form" name="sign-up" netlify>
                             <div>
                                 <label for="first-name">First Name</label>
                                 <input id="first-name" 
                                        type="text" 
-                                       placeholder="John" 
+                                       placeholder="John"
+                                       name="first-name" 
                                        required 
                                 />
                             </div>
@@ -605,7 +611,8 @@
                                 <label for="last-name">Last Name</label>
                                 <input id="last-name" 
                                        type="text" 
-                                       placeholder="Doe" 
+                                       placeholder="Doe"
+                                       name="last-name" 
                                        required 
                                 />
                             </div>
@@ -615,6 +622,7 @@
                                 <input id="email" 
                                        type="email" 
                                        placeholder="john.doe@mail.com" 
+                                       name="email"
                                        required 
                                 />
                             </div>
@@ -625,12 +633,13 @@
                                        type="number" 
                                        min="1" 
                                        placeholder="+38761234567" 
+                                       name="number"
                                 />
                             </div>
 
                             <div>
                                 <label for="select-where">Where did you hear for us ?</label>
-                                <select id="select-where" required>
+                                <select id="select-where" name="select-where" required>
                                     <option value="">Please choose one option</option>
                                     <option value="friends">Friends and family</option>
                                     <option value="youtube">YouTube videos</option>

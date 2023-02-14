@@ -166,3 +166,10 @@ Section 9: Omnifood Project - Effects, Optimizations and Deployment
 139. A short introduction to Javascript
 140. Making the Mobile Navigation Work
 141. Implementing Smooth Scrolling
+142. Implementing a Sticky Navigation Bar
+143. Browser Support and Fixing Flexbox Gap in Safari
+144. Testing Performance With Lighthouse
+145. Adding Favicon and Meta Description
+146. Image Optimizations
+147. Deployment to Netlify
+148. Making the Form Work With Netlify Forms
